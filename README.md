@@ -15,8 +15,8 @@
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=codingcush-dev&show_icons=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingcush-dev&theme=default)
 
 ![Streak](https://streak-stats.demolab.com?user=codingcush-dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingcush-dev&layout=compact)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingcush-dev&theme=default)
